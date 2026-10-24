@@ -10,10 +10,19 @@
           "overall": 4.5,
           "dish": "Chicken ramen",
           "updatedAt": "2026-10-24T13:39:22.281Z"
+        },
+        "liat": {
+          "overall": 4,
+          "broth": 5,
+          "noodles": 3,
+          "toppings": 3,
+          "vibe": 5,
+          "value": 4,
+          "updatedAt": "2026-10-24T13:50:23.646Z"
         }
       },
       "createdAt": "2026-10-24T13:39:22.281Z",
-      "updatedAt": "2026-10-24T13:39:22.281Z"
+      "updatedAt": "2026-10-24T13:50:23.646Z"
     },
     {
       "id": "15f6de79-c7e6-41a6-9b88-da006980e64d",
