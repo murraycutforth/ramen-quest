@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "restaurants": [
+    {
+      "id": "ramen-kulture",
+      "name": "Ramen Kulture",
+      "address": "52 St Giles', Oxford OX1 3LU",
+      "lat": 51.7571056,
+      "lng": -1.2603421,
+      "area": "City centre",
+      "website": "https://www.ramenkulture.com/",
+      "tags": ["independent", "tonkotsu", "walk-in only"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "shoryu-ramen",
+      "name": "Shoryu Ramen",
+      "address": "134 The Westgate, Queen St, Oxford OX1 1PB",
+      "lat": 51.7502922,
+      "lng": -1.2614086,
+      "area": "Westgate",
+      "website": "https://www.shoryuramen.com/",
+      "tags": ["chain", "hakata tonkotsu"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "kibou",
+      "name": "Kibou Japanese Kitchen & Bar",
+      "address": "11–12 Little Clarendon St, Oxford OX1 2HP",
+      "lat": 51.7585832,
+      "lng": -1.2620056,
+      "area": "Jericho",
+      "website": "https://kibou.co.uk/",
+      "tags": ["japanese kitchen", "bookable"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "edamame",
+      "name": "Edamamé",
+      "address": "15 Holywell St, Oxford OX1 3SA",
+      "lat": 51.7550003,
+      "lng": -1.2510659,
+      "area": "City centre",
+      "website": "https://www.edamame.co.uk/",
+      "tags": ["independent", "tiny", "ramen at lunch only", "no bookings"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "taberu",
+      "name": "Taberu",
+      "address": "100 Cowley Rd, Oxford OX4 1JE",
+      "lat": 51.7484504,
+      "lng": -1.2394375,
+      "area": "Cowley Road",
+      "website": "https://taberu.co.uk/",
+      "tags": ["independent", "tonkotsu", "miso"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "ramen-koncept",
+      "name": "Ramen Koncept",
+      "address": "1 The Parade, Windmill Rd, Headington, Oxford OX3 7BL",
+      "lat": 51.7599521,
+      "lng": -1.2104962,
+      "area": "Headington",
+      "website": "https://www.ramenkoncept.com/",
+      "tags": ["independent", "10-hour broth", "closed tuesdays"],
+      "bonus": false,
+      "active": true,
+      "addedAt": "2026-10-24"
+    },
+    {
+      "id": "wagamama",
+      "name": "Wagamama",
+      "address": "8 Market St, Oxford OX1 3EF",
+      "lat": 51.7528671,
+      "lng": -1.2573531,
+      "area": "City centre",
+      "website": "https://www.wagamama.com/restaurants/oxford/oxford",
+      "tags": ["chain"],
+      "bonus": true,
+      "active": true,
+      "addedAt": "2026-10-24"
+    }
+  ]
+}
