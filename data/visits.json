@@ -1,4 +1,19 @@
 {
   "version": 1,
-  "visits": []
+  "visits": [
+    {
+      "id": "8e49ada7-9fb3-4df1-bdeb-162776efa078",
+      "restaurantId": "taberu",
+      "date": "2026-10-01",
+      "ratings": {
+        "murray": {
+          "overall": 4.5,
+          "dish": "Chicken ramen",
+          "updatedAt": "2026-10-24T13:39:22.281Z"
+        }
+      },
+      "createdAt": "2026-10-24T13:39:22.281Z",
+      "updatedAt": "2026-10-24T13:39:22.281Z"
+    }
+  ]
 }
