@@ -14,6 +14,24 @@
       },
       "createdAt": "2026-10-24T13:39:22.281Z",
       "updatedAt": "2026-10-24T13:39:22.281Z"
+    },
+    {
+      "id": "15f6de79-c7e6-41a6-9b88-da006980e64d",
+      "restaurantId": "ramen-kulture",
+      "date": "2026-10-24",
+      "ratings": {
+        "liat": {
+          "overall": 4.5,
+          "broth": 4,
+          "noodles": 5,
+          "toppings": 5,
+          "vibe": 4,
+          "dish": "Chicken ramen with no chicken bits - broccoli instead",
+          "updatedAt": "2026-10-24T13:42:48.821Z"
+        }
+      },
+      "createdAt": "2026-10-24T13:42:48.821Z",
+      "updatedAt": "2026-10-24T13:42:48.821Z"
     }
   ]
 }
