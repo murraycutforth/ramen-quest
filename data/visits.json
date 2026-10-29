@@ -41,6 +41,20 @@
       },
       "createdAt": "2026-10-24T13:42:48.821Z",
       "updatedAt": "2026-10-24T13:42:48.821Z"
+    },
+    {
+      "id": "ebb73b5e-ee4e-481c-8574-282aedf70cc4",
+      "restaurantId": "ramen-kulture",
+      "date": "2026-10-29",
+      "ratings": {
+        "murray": {
+          "overall": 4.5,
+          "dish": "Chicken katsu",
+          "updatedAt": "2026-10-29T09:11:39.828Z"
+        }
+      },
+      "createdAt": "2026-10-29T09:11:39.828Z",
+      "updatedAt": "2026-10-29T09:11:39.828Z"
     }
   ]
 }
